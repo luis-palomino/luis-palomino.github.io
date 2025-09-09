@@ -1,6 +1,6 @@
 ---
-title: "COVID-19 and internal migration patterns in Peru"
-excerpt: "Advisory committee: Delia Furtado (Primary Advisor), Charles Venator Santiago, Debarchana Ghosh"
+title: "Monitoring Poverty through News Discourse and Machine Learning: Evidence from Peru"
+excerpt: "With Javier Beverinotti"
 collection: research
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Contributory Pension Coverage in Chile, Colombia, and Peru"
-excerpt: "With María Amparo Cruz-Saco, Mirian Gil & Favio Leiva"
+title: "Peruvian Income Inequality: Social Table Analysis"
+excerpt: "With Favio Leiva"
 collection: research
 ---
 

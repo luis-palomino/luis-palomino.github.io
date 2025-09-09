@@ -1,6 +1,6 @@
 ---
-title: "Mining and economic development at the subnational level in Peru, 1993-2018"
-excerpt: "With Gonzalo Delgado & Álvaro Paredes"
+title: "Mining and productive linkages at the subnational level in Peru"
+excerpt: "With Álvaro Paredes"
 collection: research
 ---
 
