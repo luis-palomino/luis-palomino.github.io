@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br/>
-Hi! I am Luis Palomino. I am a MS student in Applied & Resource Economics at the [University of Connecticut (UConn)](https://uconn.edu/){:target="_blank"}. My research interests include Regional Development, Regional Economics, Spatial Economics, Urban Economics, Economic History, and Human Capital. 
+Hi! I am Luis Palomino. I am a PhD student in Agricultural and Resource Economics at the [University of Connecticut (UConn)](https://uconn.edu/){:target="_blank"}. My research interests include Development Economics/Regional Development, Regional Economics, Spatial Economics, Urban Economics, Economic Measurement, and Economic History. 
 
 My work combines quantitative analysis, econometric modeling, and machine learning algorithms to generate insights for policy and research. I specialize in data innovation, leveraging satellite imagery, mobile phone data, news, and other unstructured data to create socioeconomic indicators with high spatial and temporal resolution.
 
